@@ -1,6 +1,5 @@
 
-const bookname=document.querySelector("li:nth-child(3)");
-console.log("bookname --> ",bookname)
+
 
 const bookhead=document.querySelector("#book-head a");
 // console.log(bookhead);
