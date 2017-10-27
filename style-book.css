@@ -1,0 +1,72 @@
+#book-head
+{
+    border-style: solid;
+    font-size: xx-large;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 70px;
+    margin-left: 150px;  
+    margin-right: 250px;
+    background-color:lawngreen;
+}
+#book-body
+{
+    border-style:solid;
+    font-size: x-large;
+    margin-left: 150px;  
+    margin-right: 250px;
+    padding-left: 30px;
+    padding-right: 30px;    
+}
+.book-name
+{
+  border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-bottom: 4px;
+}
+.delete
+{
+    border-style: solid;
+    padding: 3px;
+    background-color:burlywood;
+    float: right;
+    margin-right: 10px;
+    
+}
+#new-book
+{
+    border-style: solid;
+}
+li
+{
+    list-style-type: none;
+}
+
+#book-form
+{
+    border-style: solid;    
+    margin-top: 30px;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 70px;
+    margin-left: 150px;  
+    margin-right: 250px;
+}
+.enter
+{
+    font-size: x-large;
+    /* font-variant: small-caps; */
+}
+input[type="checkbox"]
+{
+    width: 30px;
+    height: 30px;
+}
+input[class="search"]
+{
+    align-content: center;
+    font-size: x-large;
+}
